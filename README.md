@@ -18,6 +18,8 @@ The app is designed for rapid experimentation and demo—useful for fitness apps
 
 ## Demo 
 
+https://calorieburnpredictor-b7mcuz7wlbmrqkckikt4xc.streamlit.app/
+
 https://github.com/user-attachments/assets/eab0b486-bc06-4e7d-a9f3-c6d815c0b9a5
 
 
